@@ -1,0 +1,26 @@
+{
+  "name": "higherorder_functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "higherorder_functions.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinalee/higherorder_functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trinalee/higherorder_functions/issues"
+  },
+  "homepage": "https://github.com/trinalee/higherorder_functions#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
